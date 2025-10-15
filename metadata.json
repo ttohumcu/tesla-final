@@ -1,0 +1,5 @@
+{
+  "name": "Tesla Analyzer",
+  "description": "An advanced web application to upload, analyze, and visualize Tesla vehicle log CSV files. It automatically detects trips, charging sessions, and calculates key performance metrics, presenting them in an interactive dashboard.",
+  "requestFramePermissions": []
+}
